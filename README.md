@@ -9,15 +9,15 @@ Methods (with parameters):
 	rect(first,second);
 	rect(for,fiv);
 	};
-
 	name(123,234,345,456);
+
 
 Methods:
 	method(mName, p,a,r,a,m,s){
 		print(hello);
 	};
-
 	mName();
+
 
 Variables:
 	int(name, 123);
