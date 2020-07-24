@@ -4,7 +4,7 @@ This project allows users to write code to create 'sketches' similar to that of 
 
 =-=-=-=-=--=EXAMPLE COMMANDS=-=-=-=-=
 <p>
-Methods (with parameters):
+	<u>Methods (with parameters):</u>
 	method(name,first,second,for,fiv){
 	rect(first,second);
 	rect(for,fiv);
@@ -12,39 +12,39 @@ Methods (with parameters):
 	name(123,234,345,456);
 
 
-Methods:
+<u>Methods:</u>
 	method(mName, p,a,r,a,m,s){
 		print(hello);
 	};
 	mName();
 
 
-Variables:
+<u>Variables:</u>
 	int(name, 123);
 
-loop: 
+<u>loop: </u>
 	loop(5){
 	//contents
 	};
 	
-if statement:
+<u>if statement:</u>
 	if(1 < 3){
 	//contents
 	};
 
-Print line:
+<u>Print line:</u>
 	print(hello);
 
-Rectangle:
+<u>Rectangle:</u>
 	rect(20,20);
 
-Line:
+<u>Line:</u>
 	line(20,20);
 
-Move pen:
+<u>Move pen:</u>
 	Position pen(20,20);
 
-Circle:
+<u>Circle:</u>
 	ellipse(100,100);
 
 </p>
