@@ -48,3 +48,6 @@ This project allows users to write code to create 'sketches' similar to that of 
 	ellipse(100,100);
 
 </p>
+
+
+(See 'demos' folder for proper formatting.)
